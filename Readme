@@ -1,0 +1,5 @@
+This project aims to evaluate and compare the performance of various PYSPARK ML algorithms (Random Forest, Logistic Regression, Gradient Boosting) in predicting heart diseases, considering metrics like accuracy, precision, recall, FSCORE, confusion matrix, and ROC curve.
+Features:
+AWS Integration: The integration with AWS S3 demonstrates the ability to seamlessly store and retrieve the heart disease dataset, showcasing the scalability of the solution.
+PYSPARK Analysis: Utilizing PYSPARK SQL queries for data analysis and visualization highlights the power of distributed computing in handling large-scale datasets efficiently.
+Algorithmic Diversity: The use of multiple ML algorithms, including Random Forest and Gradient Boosting, showcases the team's commitment to finding the most accurate predictive model for heart diseases.
